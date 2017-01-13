@@ -1,0 +1,10 @@
+android {
+    compileSdkVersion compileSdkVer
+    buildToolsVersion buildToolsVer
+    defaultConfig {
+        minSdkVersion minSdkVer
+        targetSdkVersion targetSdkVer
+        versionCode appVerCode
+        versionName appVerName
+    }
+}
